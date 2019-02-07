@@ -2,3 +2,5 @@ db/*.sqlite3
 tmp/*
 log/*
 Gemfile.lock
+/db/seeds.rb
+/.byebug_history
